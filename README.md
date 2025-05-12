@@ -12,12 +12,7 @@ designation.
 ### Procedure:
 1. Derive the Velocity Equation from Jacobian Matrix.
 2. Design the electro-pneumatics in FluidSim of the 3-DOF Cartesian Manipulator with A+B+C+C-B-A- sequence.
-3. Program the PLC module to control the electro-pneumatics in FluidSim of the 3-DOF Cartesian Manipulator
-with A+B+C+C-B-A- sequence.
-4. Provide the following as output of the experiment:
-    a. Velocity Equation
-    b. Electro-pneumatics Circuit
-    c. PLC Program
+
 
 ### Documentation
 PNEUMATIC AND PLC WIRING 
