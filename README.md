@@ -42,3 +42,4 @@ THE TEAM BEHIND THE SCENES
 
 
 ### Conclusion
+In this lab experiment, we controlled a 3-DOF Cartesian manipulator using GX Works code and a PLC board. To analyze the manipulator's motion and understand its velocity in relation to joint movements, the velocity equation was first derived using the Jacobian matrix, providing a mathematical representation of the manipulator's kinematic behavior.
