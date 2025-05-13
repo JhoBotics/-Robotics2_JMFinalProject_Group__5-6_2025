@@ -7,7 +7,7 @@
 designation.
 
 ### Objectives: 
-- Perform Jacobian Matrix, Electro-Pneumatics and PLC experiment to 3-DOF Cartesian Manipulator.
+- Perform Jacobian Matrix, Electro-Pneumatics and PLC experiment to 3-DOF Cartesian Manipulator.   
 
 ### Procedure:
 1. Derive the Velocity Equation from Jacobian Matrix.
