@@ -26,6 +26,8 @@ with A+B+C+C-B-A- sequence.
 
 ![IMG_20250513_220834_008](https://github.com/user-attachments/assets/f200bbf5-ede2-4c9e-bd53-60af8346fdf6)
 
+![IMG_20250513_220842_157](https://github.com/user-attachments/assets/d82e9963-49f6-46e9-8e4a-530dd37426b6)
+
 
 *FLUIDSIM PROGRAM*
 ![image](https://github.com/user-attachments/assets/88700624-8d75-4264-8563-a0fc68271d76)
