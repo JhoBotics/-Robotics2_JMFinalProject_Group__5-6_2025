@@ -22,6 +22,8 @@ with A+B+C+C-B-A- sequence.
 ### Documentation
 
 *VELOCITY EQUATION*
+![IMG_20250513_221007_276](https://github.com/user-attachments/assets/273b1ee3-272a-4caa-b932-5ae9a5373bfb)
+
 ![IMG_20250513_220834_008](https://github.com/user-attachments/assets/f200bbf5-ede2-4c9e-bd53-60af8346fdf6)
 
 
