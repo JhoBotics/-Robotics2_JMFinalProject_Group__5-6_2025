@@ -20,12 +20,24 @@ with A+B+C+C-B-A- sequence.
     c. PLC Program
 
 ### Documentation
-PNEUMATIC AND PLC WIRING 
+
+*FLUIDSIM PROGRAM*
+![image](https://github.com/user-attachments/assets/88700624-8d75-4264-8563-a0fc68271d76)
+
+Access to PDF file of Fluidsim Program: [Robotics Finals FluidSim.pdf](https://github.com/user-attachments/files/20181231/Robotics.Finals.FluidSim.pdf)
+
+
+*GXWORKS PROGRAM*
+![Robotics Finals PLC-1](https://github.com/user-attachments/assets/86bb8fd9-dde7-4704-98f2-6551fd4974a5)
+
+Acces to PDF file of GX Works: [Robotics Finals PLC.pdf](https://github.com/user-attachments/files/20181219/Robotics.Finals.PLC.pdf)
+
+*PNEUMATIC AND PLC WIRING*
 ![image](https://github.com/user-attachments/assets/5b0c6570-4153-46c5-b438-db8b642e98de)
 
 ![image](https://github.com/user-attachments/assets/3bb03576-33c9-4736-88c2-a6ded8ff26c2)
 
-OVERALL SYSTEM CONFIGURATION 
+*OVERALL SYSTEM CONFIGURATION*
 ![image](https://github.com/user-attachments/assets/40943791-89a4-421f-92b4-88a9b61d54ef)
 
 
