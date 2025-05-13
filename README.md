@@ -21,6 +21,8 @@ with A+B+C+C-B-A- sequence.
 
 ### Documentation
 
+*VELOCITY EQUATION*
+
 *FLUIDSIM PROGRAM*
 ![image](https://github.com/user-attachments/assets/88700624-8d75-4264-8563-a0fc68271d76)
 
